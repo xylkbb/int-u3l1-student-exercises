@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fafafa;
+    padding: 50px;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 100px;
+    border-radius: 10px;
+}
+
+.profile {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 18px;
+    display: inline;
+    padding: 10px;
+}
+
+button {
+    padding: 8px 16px;
+    border: 1px solid #dbdbdb;
+    border-radius: 4px;
+    background-color: #fff;
+    font-weight: 600;
+    color: #262626;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #f0f0f0;
+}
+
+.followers {
+    font-weight: normal;
+}
+
+p {
+    margin: 20px 0;
+    color: #8e8e8e;
+}
+
+.main {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+em {
+    color: #8e8e8e;
+}
