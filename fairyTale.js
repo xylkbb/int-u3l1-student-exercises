@@ -10,19 +10,17 @@
 
 // 6. Create a variable named `character` and set the value to a string that says whatever name for a character you want.
 
-// 7. Create a variable named `character` and set the value to a string that says whatever name for a character you want.
+// 7. Create a variable named `number` and set the value to a number greater than 1.
 
-// 8. Create a variable named `number` and set the value to a number greater than 1.
+// 8. Create a variable named `item` and set the value to a string that says whatever item/thing you want.
 
-// 9. Create a variable named `item` and set the value to a string that says whatever item/thing you want.
+// 9. Create a variable named `item2` and set the value to a string that says a different item/thing you want.
 
-// 10. Create a variable named `item2` and set the value to a string that says a different item/thing you want.
+// 10. Create a variable named `verb` and set the value to a string that says whatever verb you want.
 
-// 11. Create a variable named `verb` and set the value to a string that says whatever verb you want.
+// 11. Create a variable named `adverb` and set the value to a string that says whatever adverb you want.
 
-// 12. Create a variable named `adverb` and set the value to a string that says whatever adverb you want.
-
-// 13. Create a variable named `number2` and set the value to a number greater than 1.
+// 12. Create a variable named `number2` and set the value to a number greater than 1.
 
 
 
